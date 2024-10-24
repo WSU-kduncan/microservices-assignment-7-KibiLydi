@@ -1,4 +1,4 @@
-package com.wsu.workorderproservice.controller;
+package com.wsu.ordermaster.controller;
 
 
 

@@ -1,4 +1,4 @@
-package com.wsu.workorderproservice.utilities;
+package com.wsu.ordermaster.utilities;
 
 import lombok.experimental.UtilityClass;
 import org.springframework.data.domain.Sort;
